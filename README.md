@@ -9,29 +9,29 @@ This project analyzes the operational performance, logistics efficiency, and cus
 * **Data Visualization:** Tableau (Interactive mapping, parameter filtering, and dashboard design)
 
 ## 📊 Final Dashboard
-*<img width="1657" height="851" alt="E-Commerce Seller performance   Logistics Dashboard" src="https://github.com/user-attachments/assets/a605c67c-381c-4f46-b0fe-169641528cb8" />
-*
+<img width="1657" height="851" alt="E-Commerce Seller performance   Logistics Dashboard" src="https://github.com/user-attachments/assets/a605c67c-381c-4f46-b0fe-169641528cb8" />
+
 
 
 ## 🔎 Deep Dive & Key Business Insights
 
 ### 1. Geographic Supply Chain Concentration
-*<img width="1240" height="762" alt="Screenshot 2026-08-19 012142" src="https://github.com/user-attachments/assets/1ca53429-f209-4d5f-b434-80f9431b087f" />
-*
+<img width="1240" height="762" alt="Screenshot 2026-08-19 012142" src="https://github.com/user-attachments/assets/1ca53429-f209-4d5f-b434-80f9431b087f" />
+
 
 **The Insight:** 
 Platform revenue and merchant activity are heavily clustered in major economic hubs, with São Paulo (SP) acting as the primary anchor. From a business development perspective, this data suggests that future seller onboarding campaigns and logistics investments should prioritize these high-density regions to maximize return on investment and minimize localized shipping bottlenecks.
 
 ### 2. Identifying High-Value Merchants (Top Sellers)
-*<img width="1410" height="749" alt="Screenshot 2026-08-19 012245" src="https://github.com/user-attachments/assets/5c702c0f-da23-4f92-b0ce-611d8228ac00" />
-*
+<img width="1410" height="749" alt="Screenshot 2026-08-19 012245" src="https://github.com/user-attachments/assets/5c702c0f-da23-4f92-b0ce-611d8228ac00" />
+
 
 **The Insight:**
 Visualizing the top sellers by total revenue reveals a stark concentration of sales volume among a select group of high-performing merchants. Understanding this distribution is critical for proactive client management; establishing dedicated support or tiered retention initiatives for these specific accounts is essential to protecting the platform's baseline revenue.
 
 ### 3. Delivery Speed vs. Customer Satisfaction
-*<img width="1447" height="768" alt="Screenshot 2026-08-19 012120" src="https://github.com/user-attachments/assets/460c840b-5b33-4ede-b596-b5ffcdfa4fa0" />
-*
+<img width="1447" height="768" alt="Screenshot 2026-08-19 012120" src="https://github.com/user-attachments/assets/460c840b-5b33-4ede-b596-b5ffcdfa4fa0" />
+
 
 **The Insight:**
 There is a direct, quantifiable correlation between delivery speed and customer review scores. Five-star reviews consistently align with the shortest delivery windows, while shipping delays sharply drive the average rating down to one star. This proves that investing in logistics and enforcing strict merchant shipping limits is not just an operational necessity, but a core driver of customer retention and platform trust.
