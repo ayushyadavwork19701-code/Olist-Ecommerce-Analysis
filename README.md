@@ -8,9 +8,15 @@ This project analyzes the operational performance, logistics efficiency, and cus
 * **Data Manipulation:** SQL (Complex Joins, Aggregations, Date/Time formatting)
 * **Data Visualization:** Tableau (Interactive mapping, parameter filtering, and dashboard design)
 
+
+## ❓ Core Business Questions
+1. Who are the highest-value sellers, and what is the platform's revenue concentration?
+2. Which geographic regions generate the highest sales volume?
+3. How severely do delivery delays impact customer satisfaction (Review Scores)?
+
+
 ## 📊 Final Dashboard
 <img width="1657" height="851" alt="E-Commerce Seller Performance   Logistics Dashboard" src="https://github.com/user-attachments/assets/c5384e80-de84-47d5-a46a-ebea26de7f43" />
-
 
 
 ## 🔎 Deep Dive & Key Business Insights
