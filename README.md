@@ -33,7 +33,7 @@ Platform revenue and merchant activity are heavily clustered in major economic h
 
 
 **The Insight:**
-Visualizing the top sellers by total revenue reveals a stark concentration of sales volume among a select group of high-performing merchants. Understanding this distribution is critical for proactive client management; establishing dedicated support or tiered retention initiatives for these specific accounts is essential to protecting the platform's baseline revenue.
+Visualizing the top 10 sellers by total revenue reveals a stark concentration of sales volume among a select group of high-performing merchants. Understanding this distribution is critical for proactive client management; establishing dedicated support or tiered retention initiatives for these specific accounts is essential to protecting the platform's baseline revenue.
 
 ### 3. Delivery Speed vs. Customer Satisfaction
 <img width="1447" height="768" alt="Screenshot 2026-08-19 012120" src="https://github.com/user-attachments/assets/460c840b-5b33-4ede-b596-b5ffcdfa4fa0" />
