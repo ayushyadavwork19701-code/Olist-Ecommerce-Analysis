@@ -9,7 +9,7 @@ This project analyzes the operational performance, logistics efficiency, and cus
 * **Data Visualization:** Tableau (Interactive mapping, parameter filtering, and dashboard design)
 
 ## 📊 Final Dashboard
-<img width="1657" height="851" alt="E-Commerce Seller performance   Logistics Dashboard" src="https://github.com/user-attachments/assets/a605c67c-381c-4f46-b0fe-169641528cb8" />
+<img width="1657" height="851" alt="E-Commerce Seller Performance   Logistics Dashboard" src="https://github.com/user-attachments/assets/c5384e80-de84-47d5-a46a-ebea26de7f43" />
 
 
 
@@ -22,8 +22,8 @@ This project analyzes the operational performance, logistics efficiency, and cus
 **The Insight:** 
 Platform revenue and merchant activity are heavily clustered in major economic hubs, with São Paulo (SP) acting as the primary anchor. From a business development perspective, this data suggests that future seller onboarding campaigns and logistics investments should prioritize these high-density regions to maximize return on investment and minimize localized shipping bottlenecks.
 
-### 2. Identifying High-Value Merchants (Top Sellers)
-<img width="1410" height="749" alt="Screenshot 2026-08-19 012245" src="https://github.com/user-attachments/assets/5c702c0f-da23-4f92-b0ce-611d8228ac00" />
+### 2. Identifying High-Value Merchants (Top 10 Sellers)
+<img width="1437" height="337" alt="Screenshot 2026-08-19 124014" src="https://github.com/user-attachments/assets/54b698ea-15a7-446d-9f8c-d8308926265f" />
 
 
 **The Insight:**
